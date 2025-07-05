@@ -1,18 +1,12 @@
 # Pablo Shine: Song Catalog
 
-This README provides a comprehensive, alphabetized list of unique song titles.
-
----
-
-## Author
-
-* **Pablo Shine**
+This README provides a comprehensive, alphabetized list of unique song titles 
 
 ---
 
 ## Song List
 
-Explore distinct song titles, organized alphabetically for easy reference.
+Explore Pablo Shine's distinct song titles, organized alphabetically for easy reference.
 
 <details>
 <summary>Click to view the complete song list</summary>
@@ -30,12 +24,12 @@ Explore distinct song titles, organized alphabetically for easy reference.
 11. Little Sunflower
 12. Mambo Inn
 13. Maria Cevantes
-14. Morning
-15. Nica’s Dream
-16. Night in Tunisia
-17. One Note Samba
-18. Pablo’s Fancy
-19. Perdido
+14. Mindanao
+15. Morning
+16. Nica’s Dream
+17. Night in Tunisia
+18. One Note Samba
+19. Pablo’s Fancy
 20. Poinciana
 21. Sabor
 22. Saint Thomas
@@ -50,4 +44,4 @@ Explore distinct song titles, organized alphabetically for easy reference.
 
 ### About This Catalog
 
-This catalog serves as a quick and clear reference for Pablo Shine's Latin Jazz band
+This catalog serves as a quick and clear reference for a songlist
