@@ -1,6 +1,6 @@
 # Pablo Shine: Song Catalog
 
-This README provides a comprehensive, alphabetized list of unique song titles by the musician Pablo Shine.
+This README provides a comprehensive, alphabetized list of unique song titles.
 
 ---
 
@@ -12,7 +12,7 @@ This README provides a comprehensive, alphabetized list of unique song titles by
 
 ## Song List
 
-Explore Pablo Shine's distinct song titles, organized alphabetically for easy reference.
+Explore distinct song titles, organized alphabetically for easy reference.
 
 <details>
 <summary>Click to view the complete song list</summary>
