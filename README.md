@@ -1,8 +1,8 @@
-## Pablo and Rick Setlist
+# Pablo Shine: Song Catalog
 
-# Musician's Song Catalog
+This README provides a comprehensive, alphabetized list of unique song titles by the musician Pablo Shine.
 
-This `README.md` provides an alphabetized and unique list of songs by the musician Pablo Shine.
+---
 
 ## Author
 
@@ -12,10 +12,10 @@ This `README.md` provides an alphabetized and unique list of songs by the musici
 
 ## Song List
 
-Here's a comprehensive list of unique song titles from Pablo Shine's catalog, organized alphabetically.
+Explore Pablo Shine's distinct song titles, organized alphabetically for easy reference.
 
 <details>
-<summary>Click to expand/collapse the full song list</summary>
+<summary>Click to view the complete song list</summary>
 
 1.  Afro Blue
 2.  Alonzo
@@ -24,34 +24,30 @@ Here's a comprehensive list of unique song titles from Pablo Shine's catalog, or
 5.  Cubano Chant
 6.  Fiesta Lights
 7.  Funji Mama
-8.  Invitation
-9.  Linda Chicana
-10. Little Sunflower
-11. Mambo Inn
-12. Maria Cevantes
-13. Morning
-14. Nica’s Dream
-15. Night in Tunisia
-16. One Note Samba
-17. Pablo’s Fancy
-18. Poinciana
-19. Sabor
-20. Saint Thomas
-21. St. Thomas
-22. Stolen Moments
-23. Summertime
-24. That’s New
-25. Thirteen Moon
-26. Three Golden Wishes
-27. Twelve Step
-28. Willow Weep For Me
+8.  Green Dolphin Street
+9.  Invitation
+10. Linda Chicana
+11. Little Sunflower
+12. Mambo Inn
+13. Maria Cevantes
+14. Morning
+15. Nica’s Dream
+16. Night in Tunisia
+17. One Note Samba
+18. Pablo’s Fancy
+19. Perdido
+20. Poinciana
+21. Sabor
+22. Saint Thomas
+23. St. Thomas
+24. Stolen Moments
+25. Summertime
+26. Willow Weep For Me
 
 </details>
 
 ---
 
-### About This List
+### About This Catalog
 
-This list was compiled to provide a clear and easily browsable overview of the setlist(s)
-
----
+This catalog serves as a quick and clear reference for Pablo Shine's Latin Jazz band
