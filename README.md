@@ -8,8 +8,6 @@ This README provides a comprehensive, alphabetized list of unique song titles
 
 Explore Pablo Shine's distinct song titles, organized alphabetically for easy reference.
 
-<details>
-<summary>Click to view the complete song list</summary>
 
 1.  Afro Blue
 2.  Alonzo
@@ -38,7 +36,31 @@ Explore Pablo Shine's distinct song titles, organized alphabetically for easy re
 25. Summertime
 26. Willow Weep For Me
 
-</details>
+### Fest List 2025
+
+1. Afro Blue
+2. Alonzo
+3. Bilongo
+4. Caravan
+5. Cubaño Chant
+6. Fiesta lights
+7. Fungi Mama
+8. Invitation
+9. Linda Chicana
+10. Mambo Influenciado
+11. Mambo Inn
+12. Maria Cervantes
+13. Mindaneo
+14. Morning
+15. Nicas Dréam
+16. Pablo's Fancy Cubana
+17. Poinciana
+18. Sabor
+19. Saint Thomas
+20. Tin Tin Deo
+
+* Descarga Cubana
+* Acid 
 
 ---
 
