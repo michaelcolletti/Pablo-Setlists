@@ -59,23 +59,27 @@ Explore Pablo Shine's distinct song titles, organized alphabetically for easy re
 19. Saint Thomas
 20. Tin Tin Deo
 
+
+### Possibility for Jams 
 * Descarga Cubana
 * Acid
 
-* alonzo 
+
+## Big Shine Festival Set for 2025
+
+* Alonzo 
 * Caravan
 * Cubano Chant 
-* night in tunisia
-* nicas dream
-* summertime bs 
-* maria cervantes
-* tin tin deo (maybe)
-* sabor
-* 
-* 
+* A Night in Tunisia
+* Nicas Dream (Horace version)
+* Summertime (bass) 
+* Maria Cervantes 
+* Tin Tin Deo (maybe)
+* Sabor
+
+
+## Little Shine Festival and Club Setlist
+
 
 ---
 
-### About This Catalog
-
-This catalog serves as a quick and clear reference for a songlist
