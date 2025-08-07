@@ -60,7 +60,19 @@ Explore Pablo Shine's distinct song titles, organized alphabetically for easy re
 20. Tin Tin Deo
 
 * Descarga Cubana
-* Acid 
+* Acid
+
+* alonzo 
+* Caravan
+* Cubano Chant 
+* night in tunisia
+* nicas dream
+* summertime bs 
+* maria cervantes
+* tin tin deo (maybe)
+* sabor
+* 
+* 
 
 ---
 
