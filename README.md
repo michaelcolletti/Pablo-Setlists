@@ -66,3 +66,45 @@ Explore Pablo Shine's distinct song titles, organized alphabetically for easy re
 ### About This Catalog
 
 This catalog serves as a quick and clear reference for a songlist
+## Fest List 2025
+
+1. Afro Blue
+2. Alonzo
+3. Bilongo
+4. Caravan
+5. Cubaño Chant
+6. Fiesta lights
+7. Fungi Mama
+8. Invitation
+9. Linda Chicana
+10. Mambo Influenciado
+11. Mambo Inn
+12. Maria Cervantes
+13. Mindaneo
+14. Morning
+15. Nicas Dréam
+16. Pablo's Fancy Cubana
+17. Poinciana
+18. Sabor
+19. Saint Thomas
+20. Tin Tin Deo
+
+
+### Possibility for Jams 
+* Descarga Cubana
+* Acid
+
+
+## Big Shine Festival Set for 2025
+
+* Alonzo 
+* Caravan
+* Cubano Chant 
+* A Night in Tunisia
+* Nicas Dream (Horace version)
+* Summertime (bass) 
+* Maria Cervantes 
+* Tin Tin Deo (maybe)
+* Sabor
+
+---
